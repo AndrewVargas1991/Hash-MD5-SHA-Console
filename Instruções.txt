@@ -1,6 +1,6 @@
 Instruções de uso do programa de Hash para arquivos
 
-1- Abra o programa Hash.pyw com o interpretador do Python;
+1- Abra o programa Hash.py com o interpretador do Python;
 OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
 
 2- Arraste o arquivo que deseja calcular o hash para dentro do console e aperte ENTER.
