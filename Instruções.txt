@@ -1,0 +1,17 @@
+Instruções de uso do programa de Hash para arquivos
+
+1- Abra o programa Hash.pyw com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Arraste o arquivo que deseja calcular o hash para dentro do console e aperte ENTER.
+
+OBS: Para testar se o programa funcionou, um arquivo chamado "Windows Wallpaper.jpg", e os hashes dele são esses:
+
+   MD5: d3727312b952b995374efaccd580ec5a
+  SHA1: 98fdc0db2d62dd80a519ad3d3de788dc2dd3c8c8
+SHA224: 875eb96c78318118d7b63d987cca21040080ba51f8c13b6abe300e4f
+SHA256: 216e23e6b740f1d544df24f8fdb8cdaf822aa948c2d646e63bf7a200b5480f2d
+SHA384: 811984acbe2df482c412a03721874523a657b628025fa0d7fb634bc408d4dab84d975b0f
+864572209fca23b0d88e2d72
+SHA512: 21fd1391bc998feb7d0398b742850c2b84fc9b8601d448277b72bde8bea9edfa5350d093
+445f09e3665aa628393f57606f032144eae7e621985f8f94bc2ab47b
